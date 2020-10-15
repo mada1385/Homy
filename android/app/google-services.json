@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682180153773",
+    "firebase_url": "https://homy-eb0ec.firebaseio.com",
+    "project_id": "homy-eb0ec",
+    "storage_bucket": "homy-eb0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682180153773:android:4a6a67558332bd14321124",
+        "android_client_info": {
+          "package_name": "co.itlogix.homy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682180153773-iseufk0dg5qkcm59pjtbvc2rugcm72a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNRHNnzJeSYN-c1IX3Cgqnto75fWmF-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682180153773-iseufk0dg5qkcm59pjtbvc2rugcm72a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
